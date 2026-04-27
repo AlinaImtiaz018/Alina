@@ -3,13 +3,13 @@
 <div align="center">
 
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Data-+Driven+Decision+Making;Engineering+clarity+from+chaos+through+data;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Data-+Driven+Decision+Making;Engineering+clarity+from+chaos+through+data;" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 links with social media and contact information -->
 <p align="center">
   <a href="www.linkedin.com/in/alinaimtiaz"><img src="https://img.shields.io/badge/LinkedIn-Alina_Imtiaz-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/AlinaImtiaz018"><img src="https://img.shields.io/badge/GitHub-My_GitHub-white?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/AlinaImtiaz018"><img src="https://img.shields.io/badge/GitHub-AlinaImtiaz018-white?style=for-the-badge&logo=github"></a>
   <a href="mailto:alinaimtiaz097@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
