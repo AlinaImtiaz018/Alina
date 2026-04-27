@@ -8,7 +8,7 @@
 
 <!-- 🔗 links with social media and contact information -->
 <p align="center">
-  <a href="www.linkedin.com/in/alinaimtiaz"><img src="https://img.shields.io/badge/LinkedIn-Alina_Imtiaz-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/alinaimtiaz"><img src="https://img.shields.io/badge/LinkedIn-Alina_Imtiaz-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/AlinaImtiaz018"><img src="https://img.shields.io/badge/GitHub-AlinaImtiaz018-white?style=for-the-badge&logo=github"></a>
   <a href="mailto:alinaimtiaz097@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
