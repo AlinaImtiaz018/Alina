@@ -28,32 +28,31 @@ When I’m not working with data, I enjoy gaming, painting, singing, and photogr
 ## 🔭 Featured Projects
 
 - **ICON – In-Patient Day Surgery Optimization:** Developed ML models to predict surgery knife times for OR scheduling. Built a Django application to integrate predictions into clinical workflows. Applied end-to-end pipeline: preprocessing, feature engineering, tuning, and evaluation. 
-- **Chest X-Ray Pneumonia Detection:** Built deep learning models for medical image classification (Normal vs Pneumonia; Bacterial vs Viral). Focused on improving diagnostic support using computer vision techniques.
 - **Emotion Recognition from Voice (Bachelors Thesis):** Designed ML pipeline to classify emotions from speech using MFCC, pitch, and tempo features. Achieved ~80–85% accuracy using SVM and Random Forest models.
 
 #### Machine Learning & Data Science Projects
-
 - **COVID-19 Vaccination Analysis:** Applied logistic regression and odds ratio interpretation to identify key drivers of vaccine uptake.
 - **Regression Analysis (Body Measurements):** Built linear regression models with feature selection (AIC/BIC) to identify key predictors.
 - **Income Classification Model:** Built and compared multiple classifiers with advanced imputation strategies and cross-validation. Identified Gradient Boosting as the best-performing model.
 
 #### NLP & Text Mining
-
 - **Analysis of Bundestag Plenary Speeches:** Performed topic modeling and sentiment analysis on 70 years of parliamentary speeches.
 - **Text Mining Project (Literature Review):** Conducted systematic literature review and full-text analysis using text mining techniques.
 
 #### Statistical Modeling & Experimental Analysis
-
 - **Multilevel Linear Models – Music Performance Anxiety:** Built hierarchical models using OLS and REML; selected best models using AIC/BIC.
 - **Comparison of Multiple Distributions (Swimming Data):** Conducted ANOVA and pairwise tests with multiple testing corrections.
 - **Anchoring Effect Experiment Analysis:** Performed 2-way ANOVA to study behavioral bias and decision-making patterns.
 
 #### Data Analysis & Visualization
-
 - **Demographic Data Analysis (U.S. Census IDB):** Analyzed global demographic trends and regional variability (2001–2021).
 - **Hospital In-Patient Diagnosis (EDA):** Explored diagnosis patterns and hospital stay trends across age groups.
 - **Crime Control Spending Analysis:** Investigated factors influencing U.S. state-level crime control expenditures.
 - **Linguistic Landscaping Study:** Applied chi-square tests to analyze relationships in categorical linguistic data.
+
+#### Computer Vision
+- **Weapon & Sensitive Content Detection (Computer Vision):** Developed a deep learning–based object detection system to identify weapons (e.g., knives) in images and video frames, with region-based localization to highlight detected objects. Developed a deep learning–based object detection system to identify weapons (e.g., knives) in images and video frames, with region-based localization to highlight detected objects. 
+- **Chest X-Ray Pneumonia Detection:** Built deep learning models for medical image classification (Normal vs Pneumonia; Bacterial vs Viral). Focused on improving diagnostic support using computer vision techniques.
 
 #### Application Development
 
@@ -82,12 +81,12 @@ When I’m not working with data, I enjoy gaming, painting, singing, and photogr
   <img src="https://img.shields.io/badge/transformers-5A4FCF">
   
   <!-- R libraries !-->
-  <img src="https://img.shields.io/badge/ggplot2-5A4FCF">
-  <img src="https://img.shields.io/badge/dplyr-5A4FCF">
-  <img src="https://img.shields.io/badge/tidyverse-5A4FCF">
-  <img src="https://img.shields.io/badge/tm-5A4FCF">
-  <img src="https://img.shields.io/badge/lme4-5A4FCF">
-  <img src="https://img.shields.io/badge/lm-5A4FCF">
+  <img src="https://img.shields.io/badge/ggplot2-F5426C">
+  <img src="https://img.shields.io/badge/dplyr-F5426C">
+  <img src="https://img.shields.io/badge/tidyverse-F5426C">
+  <img src="https://img.shields.io/badge/tm-F5426C">
+  <img src="https://img.shields.io/badge/lme4-F5426C">
+  <img src="https://img.shields.io/badge/lm-F5426C">
 
 
   <img src="https://img.shields.io/badge/SQL-009973">
