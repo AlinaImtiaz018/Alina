@@ -77,6 +77,7 @@ When I’m not working with data, I enjoy gaming, painting, singing, and photogr
   <img src="https://img.shields.io/badge/tensorflow-5A4FCF">
   <img src="https://img.shields.io/badge/matplotlib-5A4FCF">
   <img src="https://img.shields.io/badge/statsmodels-5A4FCF">
+  <img src="https://img.shields.io/badge/optuna-5A4FCF">
   <img src="https://img.shields.io/badge/pytorch-5A4FCF">
   <img src="https://img.shields.io/badge/transformers-5A4FCF">
   
