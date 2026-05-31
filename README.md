@@ -27,7 +27,7 @@ When I’m not working with data, I enjoy gaming, painting, singing, and photogr
       
 ## 🔭 Featured Projects
 
-- **ICON – In-Patient Day Surgery Optimization:** Developed ML models to predict surgery knife times for OR scheduling. Built a Django application to integrate predictions into clinical workflows. Applied end-to-end pipeline: preprocessing, feature engineering, tuning, and evaluation. 
+- **ICON – In-Patient Day Surgery Optimization:** Contributed to the development of a machine learning solution for surgical duration prediction. Responsibilities included implementing parts of the feature-engineering workflow, preparing features for modeling, tuning hyperparameters, and training predictive models. Built a Django application to integrate predictions into clinical workflows. Feature selection, feature interpretation, data preprocessing, and evaluation were conducted collaboratively within the project team.
 - **Emotion Recognition from Voice (Bachelors Thesis):** Designed ML pipeline to classify emotions from speech using MFCC, pitch, and tempo features. Achieved ~80–85% accuracy using SVM and Random Forest models.
 
 #### Machine Learning & Data Science Projects
